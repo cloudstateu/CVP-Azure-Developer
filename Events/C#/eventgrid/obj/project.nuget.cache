@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "7oC2A37knzz2nt2f2PRtOPGim7kpbaBrhO/+JLYNUL+FiFEnkoOq50mF28wdIvURSHGF6P7YBdcX1PB4WJhZFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kkchm\\Repos\\CVP\\CVP-Azure-Developer\\Events\\C#\\eventgrid\\EventgridExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkchm\\.nuget\\packages\\azure.core\\1.10.0\\azure.core.1.10.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\azure.messaging.eventgrid\\4.0.0\\azure.messaging.eventgrid.4.0.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.memory.data\\1.0.1\\system.memory.data.1.0.1.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\kkchm\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency Azure.Messaging.EventGrid does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "Azure.Messaging.EventGrid",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    }
+  ]
+}
